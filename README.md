@@ -2,7 +2,7 @@ Conversor de imágenes
 ===================
 La siguiente aplicación se ejecuta en el shell o comúnmente conocido como cmd, la cual se encarga de buscar una imagen en el directorio raíz para su conversión en los siguientes formatos GIF, BMP, PNG y JPG.
 
-### Requisitos
+### * Requisitos
 
 Se requiere Instalar Node js (entorno de tiempo de ejecución de JavaScript) en el equipo, el cual se va a ejecutar la aplicación.
 
@@ -12,7 +12,7 @@ Se requiere un editor de código, un editor de estas características es una her
 
 Jimp es un programa de manipulación de imágenes JavaScript, una biblioteca de procesamiento de imágenes para node escrita enteramente en JavaScript, con cero dependencias nativas.
   
-  Tipos admitidos:
+  ## Tipos admitidos:
 + @jimp/jpeg
 + @jimp/png
 + @jimp/bmp
