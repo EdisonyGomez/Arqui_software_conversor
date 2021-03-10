@@ -10,16 +10,17 @@ Se requiere un editor de código, un editor de estas características es una her
 
 ### Librerías Implementadas
 
-	Jimp: Programa de manipulación de imágenes JavaScript, una biblioteca de procesamiento de imágenes para node escrita enteramente en JavaScript, con cero dependencias nativas.
+Jimp es un programa de manipulación de imágenes JavaScript, una biblioteca de procesamiento de imágenes para node escrita enteramente en JavaScript, con cero dependencias nativas.
   
   Tipos admitidos:
-@jimp/jpeg
-@jimp/png
-@jimp/bmp
-@jimp/tiff
-@jimp/gif
++ @jimp/jpeg
++ @jimp/png
++ @jimp/bmp
++ @jimp/tiff
++ @jimp/gif
 
-Instalación: npm install --save jimp
+Comando para la instalación de la libreria Jimp: `npm install --save jimp`
+
 Inquirer: Se esfuerza por ser una interfaz de línea de comandos fácil de incrustar y hermosa para Node.js
 
 Inquirer.js facilita el proceso de:
@@ -29,6 +30,21 @@ Inquirer.js facilita el proceso de:
 * Entrada de análisis
 * Validar las respuestas
 * Gestión de indicaciones jerárquicas
+
+Comando para la instalación de la libreria  inquirer : *`npm install inquirer`
+
+### ¿Cómo ejecutar la aplicación?
+
+1. Ingresar al cmd en windows. 
+2. Ir a la ruta donde se encuentra la carpeta del código fuente.
+
+3. Ejecutar el siguiente comando:
+
+ * ` node index.js`
+
+4. Seleccionar la imagen que desea convertir. 
+5. Seleccionar el formato de conversión.
+6. Visualizar la imagen convertida dentro de la carpeta raíz.
 
 
 
