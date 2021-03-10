@@ -31,7 +31,7 @@ Inquirer.js facilita el proceso de:
 * Validar las respuestas
 * Gestión de indicaciones jerárquicas
 
-Comando para la instalación de la libreria  inquirer : *`npm install inquirer`
+Comando para la instalación de la libreria  inquirer : `npm install inquirer`
 
 ### ¿Cómo ejecutar la aplicación?
 
