@@ -1,6 +1,7 @@
+
 Conversor de imagenes 
 ===================
-Aplicacion en que se ejecuta en shell, la cual se engarga de busca una imagen en el directorio raiz para su  posteiror conversion en los formatos mencionados (GIF, BMP, PNG, JPG).
+Aplicacion en que se ejecuta en shell, la cual se encarga de busca una imagen en el directorio raiz para su  posteiror conversion en los formatos mencionados (GIF, BMP, PNG, JPG)
 
 ### Requisitos
 -Tener instalado Node js en el equipo
