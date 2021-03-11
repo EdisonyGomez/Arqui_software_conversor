@@ -1,4 +1,4 @@
-Conversor de imágenes 
+Conversor de imágenes en el Shell
 ===================
 La siguiente aplicación se ejecuta en el shell o comúnmente conocido como cmd, la cual se encarga de buscar una imagen en el directorio raíz para su conversión en los siguientes formatos GIF, BMP, PNG y JPG.
 
